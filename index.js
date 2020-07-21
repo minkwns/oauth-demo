@@ -1,5 +1,3 @@
-// Fill in your client ID and client secret that you obtained
-// while registering the application
 const clientID = '1957186fbc72c320c83c'
 const clientSecret = '12e1d69d12dbcf3b41b79f064c3ce37b1ad0e554'
 
